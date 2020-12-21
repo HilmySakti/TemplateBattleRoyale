@@ -28,7 +28,7 @@ To change the UI, navigate to StarterGui; from there, you can customize the size
 
 ## Author
 
-* **Eric Stein**
+* **HilmySakti**
 
 A video of me developing this template as a self-imposed challenge:
 [![Development Video](https://img.youtube.com/vi/jgVE6CG1ZTA/0.jpg)](https://www.youtube.com/watch?v=jgVE6CG1ZTA)
